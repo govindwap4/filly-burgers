@@ -37,8 +37,8 @@ $(document).ready(function() {
 /** google_map js **/
 function myMap() {
     var mapProp = {
-        center: new google.maps.LatLng(40.712775, -74.005973),
-        zoom: 18,
+        center: new google.maps.LatLng(27.005246366179886, 49.66756680858138),
+        zoom: 19,
     };
     var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
 }
