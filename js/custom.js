@@ -68,3 +68,7 @@ $(".client_owl-carousel").owlCarousel({
         }
     }
 });
+
+function alertfunction(){
+    alert("Oops!\nThis site is under maintainance")
+}
